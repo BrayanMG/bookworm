@@ -9,6 +9,8 @@ However, I have 7 different accounts to look at when reviewing my account activi
 
 My solution for this was to create a `Python` script that helps me manage all of that data. I used the `Pandas` library to work with all of the csv files I have.
 
+The Jupyter Notebook in this repo contains the same functionality as the script. It was used for debugging and further exploration of the data.
+
 ### How to use the script
 
 The script has 2 functionalities:
