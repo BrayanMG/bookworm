@@ -1,0 +1,17 @@
+{
+  "Categories": {
+    "Needs": ["Gas", "Groceries"],
+    "Wants": ["Takeout"],
+    "Savings": []
+  },
+  "Tags": {
+    "Gas": ["BP", "CIRCLE K", "SHEETZ", "7-ELEVEN", "SHELL", "EXXONMOBIL"],
+    "Groceries": ["FOOD LION", "HARRIS TEETER"],
+    "Takeout": ["CHICK-FIL-A", "MCDONALD'S", "STARBUCKS"]
+  },
+  "Precendences": {
+    "Gas": 3,
+    "Groceries": 2,
+    "Takeout": 1
+  }
+}
