@@ -7,7 +7,7 @@
 For months, I have been trying to properly track my expenses because I want to be fiscally responsible with my money.
 However, I have 7 different accounts to look at when reviewing my account activity over the past month, so that can be extremely tedious.
 
-My solution for this was to create a python script that helps me manage all of that data. I used the pandas library to work with all of the csv files I have.
+My solution for this was to create a `Python` script that helps me manage all of that data. I used the `Pandas` library to work with all of the csv files I have.
 
 ### How to use the script
 
