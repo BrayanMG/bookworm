@@ -28,7 +28,7 @@ def get_user_args():
     ]
 
     if len(sys.argv) != 3:
-        print(f"usage: {sys.argv[0]} <action> <month>")
+        print(f"usage: {sys.argv[0]} <preprocess | summarize> <month>")
         sys.exit(1)
 
     action = sys.argv[1].lower()
